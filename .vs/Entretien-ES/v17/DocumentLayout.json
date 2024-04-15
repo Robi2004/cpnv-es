@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\robi\\Desktop\\cpnv-es\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63552EDF-D849-471B-94C9-F5C0B6E043C0}|Entretien-ES\\Entretien-ES.csproj|c:\\users\\robi\\desktop\\cpnv-es\\entretien-es\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63552EDF-D849-471B-94C9-F5C0B6E043C0}|Entretien-ES\\Entretien-ES.csproj|solutionrelative:entretien-es\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63552EDF-D849-471B-94C9-F5C0B6E043C0}|Entretien-ES\\Entretien-ES.csproj|c:\\users\\robi\\desktop\\cpnv-es\\entretien-es\\hourly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63552EDF-D849-471B-94C9-F5C0B6E043C0}|Entretien-ES\\Entretien-ES.csproj|solutionrelative:entretien-es\\hourly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63552EDF-D849-471B-94C9-F5C0B6E043C0}|Entretien-ES\\Entretien-ES.csproj|c:\\users\\robi\\desktop\\cpnv-es\\entretien-es\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63552EDF-D849-471B-94C9-F5C0B6E043C0}|Entretien-ES\\Entretien-ES.csproj|solutionrelative:entretien-es\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "function.cs",
+              "DocumentMoniker": "C:\\Users\\robi\\Desktop\\cpnv-es\\Entretien-ES\\function.cs",
+              "RelativeDocumentMoniker": "Entretien-ES\\function.cs",
+              "ToolTip": "C:\\Users\\robi\\Desktop\\cpnv-es\\Entretien-ES\\function.cs",
+              "RelativeToolTip": "Entretien-ES\\function.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:19:46.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hourly.cs",
+              "DocumentMoniker": "C:\\Users\\robi\\Desktop\\cpnv-es\\Entretien-ES\\Hourly.cs",
+              "RelativeDocumentMoniker": "Entretien-ES\\Hourly.cs",
+              "ToolTip": "C:\\Users\\robi\\Desktop\\cpnv-es\\Entretien-ES\\Hourly.cs",
+              "RelativeToolTip": "Entretien-ES\\Hourly.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:57:43.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\robi\\Desktop\\cpnv-es\\Entretien-ES\\Program.cs",
+              "RelativeDocumentMoniker": "Entretien-ES\\Program.cs",
+              "ToolTip": "C:\\Users\\robi\\Desktop\\cpnv-es\\Entretien-ES\\Program.cs",
+              "RelativeToolTip": "Entretien-ES\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:57:43.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

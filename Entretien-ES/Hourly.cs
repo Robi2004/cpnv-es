@@ -1,4 +1,6 @@
-﻿using System;
+﻿///Auteur: Robustiano Lomabrdo
+///Date: 15.04.2024
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
