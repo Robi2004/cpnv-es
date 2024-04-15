@@ -1,0 +1,15 @@
+C:\Users\pg78vgj\Desktop\cpnv-es\Entretien-ES\bin\Debug\net8.0\Entretien-ES.exe
+C:\Users\pg78vgj\Desktop\cpnv-es\Entretien-ES\bin\Debug\net8.0\Entretien-ES.deps.json
+C:\Users\pg78vgj\Desktop\cpnv-es\Entretien-ES\bin\Debug\net8.0\Entretien-ES.runtimeconfig.json
+C:\Users\pg78vgj\Desktop\cpnv-es\Entretien-ES\bin\Debug\net8.0\Entretien-ES.dll
+C:\Users\pg78vgj\Desktop\cpnv-es\Entretien-ES\bin\Debug\net8.0\Entretien-ES.pdb
+C:\Users\pg78vgj\Desktop\cpnv-es\Entretien-ES\obj\Debug\net8.0\Entretien-ES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pg78vgj\Desktop\cpnv-es\Entretien-ES\obj\Debug\net8.0\Entretien-ES.AssemblyInfoInputs.cache
+C:\Users\pg78vgj\Desktop\cpnv-es\Entretien-ES\obj\Debug\net8.0\Entretien-ES.AssemblyInfo.cs
+C:\Users\pg78vgj\Desktop\cpnv-es\Entretien-ES\obj\Debug\net8.0\Entretien-ES.csproj.CoreCompileInputs.cache
+C:\Users\pg78vgj\Desktop\cpnv-es\Entretien-ES\obj\Debug\net8.0\Entretien-ES.sourcelink.json
+C:\Users\pg78vgj\Desktop\cpnv-es\Entretien-ES\obj\Debug\net8.0\Entretien-ES.dll
+C:\Users\pg78vgj\Desktop\cpnv-es\Entretien-ES\obj\Debug\net8.0\refint\Entretien-ES.dll
+C:\Users\pg78vgj\Desktop\cpnv-es\Entretien-ES\obj\Debug\net8.0\Entretien-ES.pdb
+C:\Users\pg78vgj\Desktop\cpnv-es\Entretien-ES\obj\Debug\net8.0\Entretien-ES.genruntimeconfig.cache
+C:\Users\pg78vgj\Desktop\cpnv-es\Entretien-ES\obj\Debug\net8.0\ref\Entretien-ES.dll
